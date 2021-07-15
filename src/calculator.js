@@ -6,6 +6,7 @@ const mathOperations = {
     diff: function (a, b) {
         return a - b;
     },
+    
     product: function (a, b) {
         return a * b
     }
